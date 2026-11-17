@@ -1,0 +1,6 @@
+{
+  "name": "Bolus Quest: Ekspedisi Pencernaan 3D",
+  "description": "Game edukasi 3D menelusuri sistem pencernaan manusia mulai dari mulut sebagai berbagai jenis makanan, menghadapi respon stimulus dan gangguan pencernaan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
